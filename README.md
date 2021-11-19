@@ -1,0 +1,1 @@
+Widget météo en ajax
